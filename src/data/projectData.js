@@ -14,8 +14,8 @@ const projects = [
   {
     title: "Complaint & Grievance System",
     description: "Web application for complaint management",
-    github: "https://github.com/yourlink",
-    demo: "https://yourdemo.com"
+    github: "https://github.com/pittaharika/Complaint-Grievance-Redressal-System",
+    demo: "https://complaint-grievanc-redressal-system-z29e.onrender.com"
   }
 ];
 

@@ -10,7 +10,7 @@ function Projects() {
       <div className="project-container">
         {projects.map((project, index) => (
           <div className="project-card" key={index}>
-            <h3>{project.title}</h3>
+            <h3><b>{project.title}</b></h3>
             <p>{project.description}</p>
 
             <div className="project-buttons">
