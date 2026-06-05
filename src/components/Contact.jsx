@@ -17,7 +17,6 @@ function Contact() {
 
       <div className="contact-info">
         <p>Email: pittaharika638@gmail.com</p>
-        <p>Phone: 9876543210</p>
       </div>
     </section>
   );
